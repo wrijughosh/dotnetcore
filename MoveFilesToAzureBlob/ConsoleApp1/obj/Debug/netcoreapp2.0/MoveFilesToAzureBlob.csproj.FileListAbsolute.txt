@@ -1,0 +1,10 @@
+C:\Users\wghosh\Source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.0\MoveFilesToAzureBlob.deps.json
+C:\Users\wghosh\Source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.0\MoveFilesToAzureBlob.runtimeconfig.json
+C:\Users\wghosh\Source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.0\MoveFilesToAzureBlob.runtimeconfig.dev.json
+C:\Users\wghosh\Source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.0\MoveFilesToAzureBlob.dll
+C:\Users\wghosh\Source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.0\MoveFilesToAzureBlob.pdb
+C:\Users\wghosh\Source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.0\MoveFilesToAzureBlob.csproj.CoreCompileInputs.cache
+C:\Users\wghosh\Source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.0\MoveFilesToAzureBlob.AssemblyInfoInputs.cache
+C:\Users\wghosh\Source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.0\MoveFilesToAzureBlob.AssemblyInfo.cs
+C:\Users\wghosh\Source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.0\MoveFilesToAzureBlob.dll
+C:\Users\wghosh\Source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.0\MoveFilesToAzureBlob.pdb
